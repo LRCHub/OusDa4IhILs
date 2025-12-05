@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "その音が鳴るなら",
+  "base_artist": "Leo/need",
+  "createdAt": "2025-12-05T14:34:12.941793Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "その音が鳴るなら",
+      "artist": "Leo／need",
+      "has_synced": true,
+      "path": "select/01_その音が鳴るなら_Leo_need.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "その音が鳴るなら (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&巡音ルカ)",
+      "artist": "Leo/need",
+      "has_synced": false,
+      "path": "select/pl_01_その音が鳴るなら_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&巡音ルカ)_Leo_need.txt"
+    }
+  ]
+}
